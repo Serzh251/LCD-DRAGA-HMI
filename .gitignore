@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.cxob
 # C extensions
 *.so
 staticfiles/
